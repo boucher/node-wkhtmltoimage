@@ -1,20 +1,16 @@
 {
-  "name": "wkhtmltoimage",
+  "name": "wkhtmltoimage-linux",
   "version": "0.1.4",
-  "description": "A wrapper for the wkhtmltoimage HTML to Image converter using WebKit",
+  "description": "A version of wkhtmltoimage package that vendors the linux binaries",
   "author": {
-    "name": "Tim Studd",
-    "email": "tim@timstudd.com",
-    "url": "http://www.timstudd.com/"
-  },
-  "engines": {
-    "node": ">=0.6"
+    "name": "Ross Boucher",
+    "email": "rboucher@gmail.com"
   },
   "dependencies": {
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/timstudd/node-wkhtmltoimage.git"
+    "url": "https://github.com/boucher/node-wkhtmltoimage.git"
   },
-  "bugs": "http://github.com/timstudd/node-wkhtmltoimage/issues"
+  "bugs": "http://github.com/boucher/node-wkhtmltoimage/issues"
 }
