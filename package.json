@@ -1,6 +1,6 @@
 {
   "name": "wkhtmltoimage-linux",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A version of wkhtmltoimage package that vendors the linux binaries",
   "author": {
     "name": "Ross Boucher",
